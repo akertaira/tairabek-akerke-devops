@@ -1,0 +1,10 @@
+services:
+  app:
+    build: .
+    image: tairabek-akerke-devops
+    container_name: tairabek-akerke-container
+    environment:
+      STUDENT_NAME: Akerke
+      STUDENT_SURNAME: Tairabek
+      STUDENT_GROUP: IT2-2307
+      STUDENT_ID: "38137"
