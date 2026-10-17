@@ -1,0 +1,5 @@
+Name: Akerke
+Surname: Tairabek
+Group: IT2-2307
+Student ID: 38137
+Course: DevOps
